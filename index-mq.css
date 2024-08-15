@@ -1,0 +1,49 @@
+@media (max-width: 480px) and (min-width: 320px) {
+    body {
+        background-position: -230px 0px;
+        background-attachment: fixed;
+        overflow: hidden;
+    }
+
+    .header {
+        font-size: 45px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .line-and-name {
+        margin-top: 50px;
+    }
+
+    .extended-line {
+        width: 20px;
+    }
+
+    .name-box {
+        font-size: 23px;
+        width: 180px;
+        padding: 8px 0px;
+    }
+
+    .middle-para-1 {
+        font-size: 25px;
+        padding-left: 32px;
+    }
+
+    .middle-para-2 {
+        width: 300px;
+        font-size: 16px;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .social-profile {
+        width: 310px;
+        margin-top: 70px;
+
+    }
+
+    .soc {
+        margin: 0px 20px;
+    }
+}
